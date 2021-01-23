@@ -51,11 +51,11 @@
 ```javascript
 const dev = {
   person: {
-    name: "Kauê Malheiros",
+    name: "kauê malheiros",
     gender: "male",
     age: "25+",
     martial_status: "single",
-    location: "Panambi BR",
+    location: "panambi BR",
     ethnicity: "brazilian",
     favorite_food: "lasagna",
   },
@@ -85,8 +85,7 @@ const dev = {
   databases: ["mysql", "mongodb", "postgresql", "firebase"],
   design: ["illustrator", "photoshop", "lightroom", "figma"],
   hobbies: ["draw", "soccer", "movies", "develop", "go out to drink"],
-  challenge:
-    "I just developed an AI for recognizing actors and brands in videos.",
+  challenge: "I just developed an AI for recognizing actors and brands in videos.",
 };
 ```
 
