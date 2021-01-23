@@ -6,10 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaueemanuel/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kaue-malheiros/)](https://www.linkedin.com/in/kaue-malheiros/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kaue.malheiros@gmail.com)](mailto:kaue.malheiros@gmail.com)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![HitCount](http://hits.dwyl.com/kaueemanuel/kaueemanuel.svg)](http://hits.dwyl.com/kaueemanuel/kaueemanuel)
-
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile Views](https://hit.yhype.me/github/profile?user_id=29762539)
 [![GitHub followers](https://img.shields.io/github/followers/kaueemanuel?label=Follow&style=for-the-badge)](https://github.com/kaueemanuel/?tab=follow)
 
 <p>
