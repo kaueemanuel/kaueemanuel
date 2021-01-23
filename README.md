@@ -60,33 +60,12 @@ const dev = {
     favorite_food: "lasagna",
   },
   code: ["javascript", "python", "java", "php", "html5", "css3"],
-  tools: [
-    "typescript",
-    "nodejs",
-    "styled-components",
-    "redux",
-    "react-router",
-    "jquery",
-    "sass",
-    "heroku",
-    "amazon-aws",
-    "vscode",
-    "github",
-    "devtools",
-  ],
-  frameworks: [
-    "bootstrap",
-    "expressjs",
-    "react",
-    "react-native",
-    "flutter",
-    "angular",
-  ],
+  tools: ["typescript", "nodejs", "styled-components", "redux", "react-router", "jquery", "sass", "heroku", "amazon-aws", "vscode", "github", "devtools"],
+  frameworks: ["bootstrap", "expressjs", "react", "react-native", "flutter", "angular"],
   databases: ["mysql", "mongodb", "postgresql", "firebase"],
   design: ["illustrator", "photoshop", "lightroom", "figma"],
   hobbies: ["draw", "soccer", "movies", "develop", "go out to drink"],
-  challenge:
-    "I just finished wes bos's 30-days challenge focused on javascript",
+  challenge: "I just finished wes bos's 30-days challenge focused on javascript",
 };
 ```
 
