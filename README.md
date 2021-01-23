@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaueemanuel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueemanuel&layout=compact&bg_color=0d1117&text_color=c9d1d9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaueemanuel&show_icons=true&bg_color=0d1117&text_color=c9d1d9&hide_border=true&&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
