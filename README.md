@@ -1,7 +1,16 @@
-<p>
 <h1 align="center">Hi, I'm Kauê Malheiros</h1>
-</p>
+<h3 align="center">Fullstack developer at Rede Globo.</h3>
 <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=kaueemanuel&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kaueemanuel?label=Followers" />
+</p>
+<br/>
+<br/>
+<h2 align="center">👨 Social / 📱 Contact</h2>
+<p align="center">
+  <a href="https://kauebr.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/kaueemanuel/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -12,12 +21,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kaue.malheiros@gmail.com" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=kaueemanuel&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kaueemanuel?label=Followers" />
 </p>
-
-<h2 align="center">I'm a Full Stack Developer</h2>
-
+<br/>
+<br/>
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,13 +51,14 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueemanuel&layout=compact&title_color=000" />
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=kaueemanuel&show_icons=true&&hide=contribs&title_color=000" />
-</p>
-
+</p> -->
+<br/>
+<br/>
 <h2 align="center">💻 Workspace Spec</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-GTX_1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
