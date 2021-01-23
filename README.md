@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=kaueemanuel&color=282c34" />
+   <img src="https://komarev.com/ghpvc/?username=kaueemanuel&color=282c34&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 <div align="center">
     <img height="auto" width="64%" alt="GIF" src="home.gif"/>
