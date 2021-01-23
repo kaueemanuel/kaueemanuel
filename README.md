@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=kaueemanuel&color=282c34" />
+</p>
 <div align="center">
     <img height="auto" width="64%" alt="GIF" src="home.gif"/>
 </div>
@@ -22,21 +25,18 @@
   
   # Hello World, I'm Kauê! 👋
   
-  <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
+  <img align="right" height="auto" width="37%" alt="GIF" src="pc.gif"/>
   
-  🔭 I’m currently working on two courses at Mission College: JavaScript 1 & Web Design and Development 2. After taking both classes, I will be at the half way mark of obtaining their Web Developer Certificate. I'm excited to be in a structured setting again and can't wait to move forward 🚀
+  🔭 I am currently working at **Rede Globo** as a **Full Stack Developer**. 🚀
 <br />
 
-🌱 I’m currently learning **JavaScript**, **Sass**, **Gulp**, **Materialize**, **Bootstrap**, and hopefully **React** soon!
+🌱 I’m currently learning **JavaScript**, **React**, **NextJs**, **Sass**, **Angular**, and hopefully **Machine Learning** soon!
 <br />
 
 🎮 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion and meet some great Developers!
 <br />
 
-🤔 I’m looking for help with **_JavaScript_**! I want to master it... if that's even possible, heh.
-<br />
-
-⚡ **_Fun fact_**: Did you know.... That **California** (_USA_) has the tallest mountain in all of the lower _48 States_. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of **_14,505_** feet!
+🤔 I’m looking for help with **_Machine Learning_**! I want to master it... if that's even possible, heh.
 <br />
 
 💬 Ask me about anything I'm friendly, I swear 🧟‍♂️
@@ -51,21 +51,43 @@
 ```javascript
 const dev = {
   person: {
-   name: 'Kauê Malheiros',
-   gender: 'male',
-   age: 25+,
-   martial_status: 'single',
-   location: Panambi BR,
-   ethnicity: brazilian,
-   favorite_food: lasagna
-   },
-  code: [javascript, python, java, php, html5, css3],
-  tools: [sass, gulp, grunt, zshell, vscode, git, github, devtools, netlify],
-  frameworks: [bootstrap, materialize],
-  design: [adobe illustration, photoshop, lightroom, figma],
-  hobbies: [draw, soccer, movies, reading, go out to drink],
-  challenge: "I just finished wes bos's 30-days challenge focused on javascript"
-}
+    name: "Kauê Malheiros",
+    gender: "male",
+    age: "25+",
+    martial_status: "single",
+    location: "Panambi BR",
+    ethnicity: "brazilian",
+    favorite_food: "lasagna",
+  },
+  code: ["javascript", "python", "java", "php", "html5", "css3"],
+  tools: [
+    "typescript",
+    "nodejs",
+    "styled-components",
+    "redux",
+    "react-router",
+    "jquery",
+    "sass",
+    "heroku",
+    "amazon-aws",
+    "vscode",
+    "github",
+    "devtools",
+  ],
+  frameworks: [
+    "bootstrap",
+    "expressjs",
+    "react",
+    "react-native",
+    "flutter",
+    "angular",
+  ],
+  databases: ["mysql", "mongodb", "postgresql", "firebase"],
+  design: ["illustrator", "photoshop", "lightroom", "figma"],
+  hobbies: ["draw", "soccer", "movies", "develop", "go out to drink"],
+  challenge:
+    "I just finished wes bos's 30-days challenge focused on javascript",
+};
 ```
 
 <hr>
@@ -73,16 +95,6 @@ const dev = {
 #### Statistics:
 
 </div>
-  
-<!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=vue&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://youtu.be/dQw4w9WgXcQ">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&hide_title=false" />
-</a>
 
-<!--
-![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
--->
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=kaueemanuel&count_private=true&title_color=282c34&icon_color=282c34&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&hide=contribs" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueemanuel&layout=compact&title_color=282c34&hide_title=false" />
