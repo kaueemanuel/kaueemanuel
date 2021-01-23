@@ -86,7 +86,7 @@ const dev = {
   design: ["illustrator", "photoshop", "lightroom", "figma"],
   hobbies: ["draw", "soccer", "movies", "develop", "go out to drink"],
   challenge:
-    "I just finished wes bos's 30-days challenge focused on javascript",
+    "I just developed an AI for recognizing actors and brands in videos.",
 };
 ```
 
