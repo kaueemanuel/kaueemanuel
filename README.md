@@ -1,4 +1,8 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<style>
+  h1 {
+    color: red
+  }
+</style>
 
 ## Hi there 👋
 
