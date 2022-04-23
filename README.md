@@ -26,7 +26,7 @@
   
   <img align="right" height="auto" width="37%" alt="GIF" src="pc.gif"/>
   
-  🔭 I am currently working at **Rede Globo** as a **Full Stack Developer**. 🚀
+  🔭 I am currently working at **Olist** as a **Front End Developer**. 🚀
 <br />
 
 🌱 I’m currently learning **JavaScript**, **React**, **NextJs**, **Sass**, **Angular**, and hopefully **Machine Learning** soon!
