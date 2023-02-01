@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-282c34?style=flat-square&labelColor=282c34&logo=Gmail&logoColor=white&color=282c34)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=kaue.malheiros@gmail.com)
 [![linkedin](https://img.shields.io/badge/LINKEDIN-282c34?style=flat-square&labelColor=282c34&logo=LinkedIn&logoColor=white&color=282c34)](https://www.linkedin.com/in/kaue-malheiros/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-282c34?style=flat-square&labelColor=282c34&logo=Instagram&logoColor=white&color=282c34)](https://www.instagram.com/kaueemanuel/)
-[![Dev.to](https://img.shields.io/badge/WEBSITE-282c34?style=flat-square&labelColor=282c34&logo=DEV.TO&logoColor=white&color=282c34)](https://kauebr.dev)
+<!-- [![Dev.to](https://img.shields.io/badge/WEBSITE-282c34?style=flat-square&labelColor=282c34&logo=DEV.TO&logoColor=white&color=282c34)](https://kauebr.dev) -->
 
   <!-- this block of code is for the dropdown menu effect -->
   <details>
